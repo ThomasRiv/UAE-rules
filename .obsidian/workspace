@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aides de Jeu/Règles/Compétences.md",
+            "file": "Lore/Histoire/Une Angélique Errance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aides de Jeu/Règles/Compétences.md",
+                "file": "Lore/Histoire/Une Angélique Errance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aides de Jeu/Règles/Compétences.md",
+                "file": "Lore/Histoire/Une Angélique Errance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aides de Jeu/Règles/Compétences.md"
+                "file": "Lore/Histoire/Une Angélique Errance.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "fee6701cbfe9e795",
   "lastOpenFiles": [
+    "Personnages/Non Joueur/Profanes/Zephira.md",
+    "Lore/Histoire/Une Angélique Errance.md",
     "Lore/Magie.md",
+    "Aides de Jeu/Règles/Compétences.md",
     "Aides de Jeu/Règles/Système de Jeu.md",
     "Aides de Jeu/Règles/Règles diverses.md",
     "Personnages/Non Joueur/Divinités/Mineures/Écume.md",
     "Personnages/Non Joueur/Divinités/Majeures/Ar'athar.md",
     "Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_démoniaque.jpg",
-    "Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_élémentaire.jpg",
-    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
-    "Personnages/Joueur/Iksana Vinaya.md",
-    "Aides de Jeu/Règles/La Magie.md"
+    "Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_élémentaire.jpg"
   ]
 }
