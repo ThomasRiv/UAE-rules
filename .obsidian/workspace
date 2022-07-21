@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7aabbafa5e73c3ab",
+        "id": "1978058e1d4dce55",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Règles.md",
+            "file": "Aides de Jeu/Règles/Cuisine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Règles.md",
+                "file": "Aides de Jeu/Règles/Cuisine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Règles.md",
+                "file": "Aides de Jeu/Règles/Cuisine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Règles.md"
+                "file": "Aides de Jeu/Règles/Cuisine.md"
               }
             }
           }
@@ -120,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7aabbafa5e73c3ab",
+  "active": "1978058e1d4dce55",
   "lastOpenFiles": [
-    "Lore/Histoire/L'expansion de l'Empire Kinfordien.md",
-    "Personnages/Non Joueur/Divinités/Majeures/Ar'athar.md",
-    "Règles.md",
-    "Lore/Histoire/Les vols magiques de l'Homme.md",
-    "Attachements/Livre de sorts D&D 5e - Mage.pdf",
-    "Personnages/Non Joueur/Profanes/Zephira.md",
-    "Personnages/Non Joueur/Profanes/Somnia.md",
-    "Personnages/Non Joueur/Profanes/Lauralès.md",
-    "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
-    "Personnages/Non Joueur/Profanes/Ember.md"
+    "Aides de Jeu/Règles/La Magie.md",
+    "Lore/Spécialités Culinaires/Recettes communes.md",
+    "Aides de Jeu/Règles/Cuisine.md",
+    "Aides de Jeu/Règles/Règles diverses.md",
+    "Aides de Jeu/Règles/Les outils de sûreté.md",
+    "Aides de Jeu/Règles/Mort et Résurrection.md",
+    "Aides de Jeu/Règles/Organisation.md",
+    "Aides de Jeu/Règles/Système de Jeu.md",
+    "Lore/Histoire/Une Angélique Errance.md",
+    "Aides de Jeu/Règles/Compétences.md"
   ]
 }
