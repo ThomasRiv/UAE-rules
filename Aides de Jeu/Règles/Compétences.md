@@ -27,7 +27,7 @@ s'applique aux événements et personnalités historiques, civilisations perdues
 - Géants
 - Dragons (éventuellement)
 
-####Nature
+#### Nature
 herboristerie, météorologie, événements naturels et les créatures des catégories :
 - Plantes
 - Bêtes

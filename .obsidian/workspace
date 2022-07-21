@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1978058e1d4dce55",
+        "id": "fee6701cbfe9e795",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aides de Jeu/Règles/Cuisine.md",
+            "file": "Aides de Jeu/Règles/Compétences.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md",
+                "file": "Aides de Jeu/Règles/Compétences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md",
+                "file": "Aides de Jeu/Règles/Compétences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md"
+                "file": "Aides de Jeu/Règles/Compétences.md"
               }
             }
           }
@@ -120,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1978058e1d4dce55",
+  "active": "fee6701cbfe9e795",
   "lastOpenFiles": [
-    "Aides de Jeu/Règles/La Magie.md",
-    "Lore/Spécialités Culinaires/Recettes communes.md",
-    "Aides de Jeu/Règles/Cuisine.md",
-    "Aides de Jeu/Règles/Règles diverses.md",
-    "Aides de Jeu/Règles/Les outils de sûreté.md",
-    "Aides de Jeu/Règles/Mort et Résurrection.md",
-    "Aides de Jeu/Règles/Organisation.md",
+    "Lore/Magie.md",
     "Aides de Jeu/Règles/Système de Jeu.md",
-    "Lore/Histoire/Une Angélique Errance.md",
-    "Aides de Jeu/Règles/Compétences.md"
+    "Aides de Jeu/Règles/Règles diverses.md",
+    "Personnages/Non Joueur/Divinités/Mineures/Écume.md",
+    "Personnages/Non Joueur/Divinités/Majeures/Ar'athar.md",
+    "Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_démoniaque.jpg",
+    "Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_élémentaire.jpg",
+    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
+    "Personnages/Joueur/Iksana Vinaya.md",
+    "Aides de Jeu/Règles/La Magie.md"
   ]
 }
