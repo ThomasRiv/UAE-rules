@@ -1,0 +1,2 @@
+#Personnage/Mortel
+#Compagnie

@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "46b5c4abebfbc39c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aabbafa5e73c3ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Règles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "789a6a7c95d853c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f685cc0a90d7baa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f32d49bd5c80c25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "553dfd59f917275d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "76a85c04a9e2031c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa368bfe774e08a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cf70aac6d52e02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Règles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbfa850a5e2f513d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe49dc9bf465d12c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Règles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "600b2f42717afbe1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Règles.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7aabbafa5e73c3ab",
+  "lastOpenFiles": [
+    "Lore/Histoire/L'expansion de l'Empire Kinfordien.md",
+    "Personnages/Non Joueur/Divinités/Majeures/Ar'athar.md",
+    "Règles.md",
+    "Lore/Histoire/Les vols magiques de l'Homme.md",
+    "Attachements/Livre de sorts D&D 5e - Mage.pdf",
+    "Personnages/Non Joueur/Profanes/Zephira.md",
+    "Personnages/Non Joueur/Profanes/Somnia.md",
+    "Personnages/Non Joueur/Profanes/Lauralès.md",
+    "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
+    "Personnages/Non Joueur/Profanes/Ember.md"
+  ]
+}
