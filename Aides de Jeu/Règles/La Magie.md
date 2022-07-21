@@ -10,10 +10,12 @@ Ces lanceurs de sorts peuvent choisir leurs sorts parmis tous ceux à leur dispo
 Ceux connaissant par cœur une liste de sorts réduite—les bardes, sorciers, occultistes et tiers-lanceurs—n'ont pas à préparer leurs sorts activement.
 
 ### Règles spécifiques
-- Les mages disposent d'une liste de sorts réduite à leur grimoire. Ils peuvent cependant recopier de nouveaux sorts sur d'autres grimoires, à condition d'y investir le temps et les ressources nécessaire.
-Ils peuvent en outre aprendre leurs sorts, à raison du décuple du niveau du sort révisions.
+- Les mages disposent d'une liste de sorts réduite à leur grimoire. Ils peuvent cependant recopier de nouveaux sorts sur d'autres grimoires, à condition d'y investir le temps et les ressources nécessaire. Ils peuvent en outre assimiler leurs sorts, à raison de (5×niveau du sort) heures de travail. Cela leur permet de modifier les conditions de lancé du sort, à la discretion du MJ.
 - Les lanceurs de sorts peuvent, avec de la pratique et les ressources adaptées, créer leurs propre sorts.
 - Dépassement de capacité : lorsqu'un lanceur de sort arrive au terme de ses capacités magiques, il peut tenter d'aller au-delà de ses limites pour lancer un sort. Il doit pour cela réussir un test de connaissance, DC 10 + le double du niveau du sort.
+
+## Sorts chargés%%TODO%%
+En maintenant sa concentration durant un tour, un lanceur de sort peut doubler l'effet d'un sort.
 
 ## Les objets magiques
 ### L'harmonisation

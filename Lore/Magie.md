@@ -14,6 +14,7 @@ Le plus connu des élément, et probablement le plus visuel, le feu ! Du souffle
 
 ### Froid
 La froideur mortelle du souffle d'un dragon blanc vous rappellera que, si l'air glacial mord chaque parcelle de votre peau, cette définition du froid pourrait bien s'appliquer à autre chose que votre simple chaleur...
+
 ### Foudre
 Si l'orage vous effraie... le souffle d'un dragon bleu vous fera comprendre que ces *petits* arcs électriques ne sont rien.
 
