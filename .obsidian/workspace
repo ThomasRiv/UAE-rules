@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1eb92dd895b36ef7",
+        "id": "f42eccf67a50a36b",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -105,24 +105,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1eb92dd895b36ef7",
+  "active": "f42eccf67a50a36b",
   "lastOpenFiles": [
-    "Attachements/PC/Iksana/Avatar.jpg",
-    "Attachements/PC/Iksana/Vinaya_token_2.png",
-    "Attachements/PC/Iksana/Vinaya_token_1.png",
-    "Attachements/PC/Iksana/Iksana_wanted.png",
-    "Attachements/PC/Iksana/Arbre Généalogique d'Iksana.md",
-    "Attachements/PC/Erd/token.png",
-    "Attachements/PC/Erd/Erd_wanted.png",
-    "Attachements/PC/Namemei/Avatar.png",
-    "Lore/Magie.md",
-    "Aides de Jeu/Règles/La Magie.md"
+    "README.md",
+    "Personnages/Joueur/Iksana Vinaya.md",
+    "Personnages/Non Joueur/Divinités/Majeures/Édos.md",
+    "Lore/Histoire/Une Angélique Errance.md",
+    "Personnages/Non Joueur/Profanes/Ember.md",
+    "Personnages/Joueur/Mordecai Noname.md",
+    "Personnages/Non Joueur/Profanes/Lauralès.md",
+    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
+    "Lore/Organisations/Église du Crépuscule.md",
+    "Lore/Lieux/Villes/Cragwell.md"
   ]
 }

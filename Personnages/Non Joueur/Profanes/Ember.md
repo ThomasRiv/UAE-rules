@@ -1,3 +1,3 @@
 #Personnage/Mortel
 
-Prêtre de l'[[Église du Crépuscule]].
+Prêtre de l'[[Église du Crépuscule]], et donc d'[[Édos]].
