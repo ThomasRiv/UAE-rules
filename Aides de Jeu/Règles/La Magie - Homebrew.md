@@ -1,5 +1,5 @@
 #Règles 
-# Magie
+# La Magie : Homebrew
 ## Spécificités des lanceurs de sorts
 ### Règle générale
 Dépendant de la classe d'un personnage, celui-ci peut soit préparer ses sorts, soit les connaître intuitivement.
