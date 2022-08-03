@@ -16,6 +16,8 @@
 
 ## Histoire
 
+## Apparence
+
 ## Personnalité
 
 ## Capacités
@@ -29,6 +31,13 @@
 ### Autres relations
 
 ## Arbre Généalogique
+```mermaid
+graph TD
+    ?[?] --> ?x!( )
+    ![!] --> ?x!
+
+    ?x! --> ?![?!]
+```
 
 ## Citations
 
