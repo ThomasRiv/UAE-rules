@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f42eccf67a50a36b",
+        "id": "5cd37aa01e6a5c63",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Aides de Jeu/Règles/Cuisine.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Personnage/Immortel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aides de Jeu/Règles/Cuisine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -92,8 +97,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aides de Jeu/Règles/Cuisine.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,26 +108,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aides de Jeu/Règles/Cuisine.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f42eccf67a50a36b",
+  "active": "5cd37aa01e6a5c63",
   "lastOpenFiles": [
-    "README.md",
+    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md",
     "Personnages/Joueur/Iksana Vinaya.md",
-    "Personnages/Non Joueur/Divinités/Majeures/Édos.md",
-    "Lore/Histoire/Une Angélique Errance.md",
-    "Personnages/Non Joueur/Profanes/Ember.md",
+    "Personnages/Joueur/Lossë Lapattë.md",
+    "Personnages/Joueur/Mardil Astaldo.md",
     "Personnages/Joueur/Mordecai Noname.md",
-    "Personnages/Non Joueur/Profanes/Lauralès.md",
+    "Personnages/Joueur/Namemei aux Écailles d'Or.md",
+    "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
+    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
     "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
-    "Lore/Organisations/Église du Crépuscule.md",
-    "Lore/Lieux/Villes/Cragwell.md"
+    "Personnages/Non Joueur/Profanes/Raghor Onyx.md"
   ]
 }

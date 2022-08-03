@@ -1,4 +1,5 @@
 #Personnage/Mortel
+#Compagnie 
 
 ![[Laurales_Avatar.png]]
 
