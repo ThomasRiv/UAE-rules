@@ -33,10 +33,13 @@ Née à [[Cragwell]].
 
 ## Relations
 ### Famille
-Fille de [[Vinaya Goodness]] et du Deva [[Édos|Hadriel]]
-Sœur d'[[Avemya Vinaya]].
+[[Vinaya Goodness]] (Mère)
+[[Hadriel]] (Père)
+[[Avemya Vinaya]] (Sœur)
+
 ### Relations amoureuses
-Amie, amoureuse et amante de [[Candrin Jvalaka]].
+[[Candrin Jvalaka]] (Amie, amoureuse et amante)
+
 ### Amis
 ### Alliés et Affiliations
 ### Ennemis

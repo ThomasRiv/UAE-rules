@@ -3,7 +3,7 @@
 L'expansion de l'[[Empire Kinfordien]] débuta en l'an de grâce -2 de l'ère Kinford.
 À l'époque, le continent d'[[Envia]] était divisé entre les différents peuples humanoïdes, dont la quasi-totalité étaient unifiés. Seuls demeuraient les humains, toujours séparés en divers tribues, différents clans...
 
-Tout changea en l'an -2 de l'ère Kinford, lorsque l'empereur [[Kinford Ier]] unifia les tribues Baveholdiennes—en échange du partage des savoirs de sa tribue sur la [[Magie|magie]]—sous une seule et même bannière : celle de son futur empire.
+Tout changea en l'an -2 de l'ère Kinford, lorsque l'empereur [[Kinford Ier]] unifia les tribues Baveholdiennes—en échange du partage des savoirs de sa tribue sur la [[La Magie de ce monde|magie]]—sous une seule et même bannière : celle de son futur empire.
 Débuta alors sa conquête du continent. Durant les 7 premières années, il asservit rapidement, grâce à la maitrîse.
 En l'an 5 de notre ère, son avancée fut stoppée par la première barrière naturelle : celles des grands cours d'eau et du [[Lac Fayvein|grand lac Fayvein]].
 

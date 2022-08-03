@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd37aa01e6a5c63",
+        "id": "2cdb51b5d1dbc516",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aides de Jeu/Règles/Cuisine.md",
+            "file": "Personnages/Joueur/Iksana Vinaya.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Personnage/Immortel",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md",
+                "file": "Personnages/Joueur/Iksana Vinaya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md",
+                "file": "Personnages/Joueur/Iksana Vinaya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,28 +110,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aides de Jeu/Règles/Cuisine.md"
+                "file": "Personnages/Joueur/Iksana Vinaya.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5cd37aa01e6a5c63",
+  "active": "553dfd59f917275d",
   "lastOpenFiles": [
-    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md",
     "Personnages/Joueur/Iksana Vinaya.md",
-    "Personnages/Joueur/Lossë Lapattë.md",
-    "Personnages/Joueur/Mardil Astaldo.md",
-    "Personnages/Joueur/Mordecai Noname.md",
-    "Personnages/Joueur/Namemei aux Écailles d'Or.md",
-    "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
-    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
+    "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
     "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
-    "Personnages/Non Joueur/Profanes/Raghor Onyx.md"
+    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
+    "Personnages/Non Joueur/Profanes/Candrin Jvalaka.md",
+    "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
+    "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
+    "Personnages/Non Joueur/Profanes/Hadriel.md",
+    "Personnages/Non Joueur/Profanes/Mallun Quinn Kinford.md",
+    "Personnages/Non Joueur/Profanes/Lauralès Arvis.md"
   ]
 }
