@@ -5,8 +5,6 @@
 ## Informations personnelles
 ### Nom Complet
 ### Alias
-[[Édos]] (Forme divine)
-
 ### Alignement
 ### Status
 ### Naissance

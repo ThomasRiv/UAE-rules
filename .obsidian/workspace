@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
+            "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
+                "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
+                "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md"
+                "file": "Personnages/Non Joueur/Profanes/Hadriel.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "2cdb51b5d1dbc516",
   "lastOpenFiles": [
+    "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
     "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
     "Personnages/Non Joueur/Profanes/Hadriel.md",
     "Personnages/Non Joueur/Profanes/Iridesa.md",
@@ -130,7 +131,6 @@
     "Personnages/Non Joueur/Profanes/Candrin Jvalaka.md",
     "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
     "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
-    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md",
-    "Attachements/Templates/Personnage_Template.md"
+    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md"
   ]
 }
