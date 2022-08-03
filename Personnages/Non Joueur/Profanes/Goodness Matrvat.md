@@ -62,9 +62,10 @@ L’idée qu’une famille fondée sur la légende du précédent membre, sans p
 
 C’est ainsi qu’elle nomma sa fille, Vinaya Goodness.
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

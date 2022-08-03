@@ -15,15 +15,18 @@
 ### Alignement
 ### Status
 ### Naissance
+765 de l'ère Kinford
+
 ### Décès
 ### Résidence
 ### Occupations
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

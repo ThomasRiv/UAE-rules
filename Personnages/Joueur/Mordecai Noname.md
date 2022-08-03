@@ -24,9 +24,10 @@ Mordecai Noname
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

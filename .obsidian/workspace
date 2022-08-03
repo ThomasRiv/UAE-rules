@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personnages/Joueur/Iksana Vinaya.md",
+            "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Joueur/Iksana Vinaya.md",
+                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Joueur/Iksana Vinaya.md",
+                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,27 +109,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Joueur/Iksana Vinaya.md"
+                "file": "Personnages/Non Joueur/Profanes/Vinaya Goodness.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "553dfd59f917275d",
+  "active": "2cdb51b5d1dbc516",
   "lastOpenFiles": [
-    "Personnages/Joueur/Iksana Vinaya.md",
-    "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
-    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
-    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
-    "Personnages/Non Joueur/Profanes/Candrin Jvalaka.md",
-    "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
     "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
     "Personnages/Non Joueur/Profanes/Hadriel.md",
-    "Personnages/Non Joueur/Profanes/Mallun Quinn Kinford.md",
-    "Personnages/Non Joueur/Profanes/Lauralès Arvis.md"
+    "Personnages/Non Joueur/Profanes/Iridesa.md",
+    "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
+    "Personnages/Non Joueur/Profanes/Fokastite Alasko.md",
+    "Personnages/Non Joueur/Profanes/Candrin Jvalaka.md",
+    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
+    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
+    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md",
+    "Attachements/Templates/Personnage_Template.md"
   ]
 }

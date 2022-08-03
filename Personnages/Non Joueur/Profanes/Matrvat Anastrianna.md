@@ -85,9 +85,10 @@ Les parents étaient soulagés, et prirent leur fille maintenant tieffeline dans
 
 La famille prit les voiles, pour vivre dans une autre ville, les parents utilisaient un sort de changement d’apparence pour protéger leur fille d’être reconnue en tant que démon en cas de besoin.
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

@@ -7,6 +7,8 @@
 
 ## Informations personnelles
 ### Nom Complet
+Iksana Vinaya
+
 ### Pronoms
 ### Titres
 ### Alias
@@ -15,8 +17,9 @@
 ### Classe %%(le cas échéant)%%
 ### Alignement
 ### Status
+Vivante
 ### Naissance
-Née à [[Cragwell]].
+771 de l'ère Kinford, [[Cragwell]]
 
 ### Décès
 ### Résidence

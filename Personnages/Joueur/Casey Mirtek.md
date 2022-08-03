@@ -25,9 +25,10 @@ Casey Mirtek (Pseudonyme de caval)
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

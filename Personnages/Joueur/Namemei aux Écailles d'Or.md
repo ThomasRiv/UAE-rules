@@ -25,9 +25,10 @@ Namemei aux Écailles d'Or (Surnom pirate)
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

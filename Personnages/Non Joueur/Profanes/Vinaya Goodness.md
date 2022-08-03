@@ -16,15 +16,17 @@
 ### Status
 ### Naissance
 650 de l'ère Kinford
+
 ### Décès
 ### Résidence
 ### Occupations
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 
