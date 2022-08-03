@@ -1,5 +1,5 @@
 #Concept
-# La Magie
+# La Magie de ce monde
 ## La Mana
 Il existe en notre monde une chose appelée Mana. Le consensus académique actuelle statue que celle-ci est une source d'énergie, voire une entité, originaire de la Création. Elle serait la conséquence intrinsèque de la présence des dieux et de leur influence sur notre monde.
 
@@ -117,7 +117,7 @@ Quelques roublards améliorent leurs compétences aiguisées en furtivité et ag
 ## Les objets magiques
 
 Dans les plus grandes villes, les forgerons, joailliers et autres artisans travaillent généralement de concert avec les enchanteurs et artificiers afin de rendre leurs œuvres plus attrayantes—et donc rentables—pour les clients les plus fortunés.
-Cela peut aller du simple enchantement d'un tranchant de lame, afin de rentre une épée plus coupante que d'ordinaire, à l'incrustation d'une gemme de pouvoir permettant à l'utilisateur d'invoquer une fraction du pouvoir de Mog'dral, changeant le champ de bataille en un bain de sang—littéralement—où se noieront ses ennemis... avant de se relever à ses côtés.
+Cela peut aller du simple enchantement d'un tranchant de lame, afin de rentre une épée plus coupante que d'ordinaire, à l'incrustation d'une gemme de pouvoir permettant à l'utilisateur d'invoquer une fraction du pouvoir du dieu du Sang, changeant le champ de bataille en un bain de sang—littéralement—où se noieront ses ennemis... avant de se relever à ses côtés.
 
 Si les objets les plus simples et les moins puissant ne nécessitent généralement pas de connaissance poussée pour leur utilisation, à l'image d'une potion de guérison ou d'un cristal de téléportation, d'autres requiert une certaine compréhension, voire la création d'un lien entre le porteur et l'objet, *l'harmonisation*.
 
