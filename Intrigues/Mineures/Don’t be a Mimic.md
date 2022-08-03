@@ -1,6 +1,6 @@
 #Intrigue/Mineure
 # Don't be a Mimic
-Personal Arc [[Lauralès Noneïme]]
+Personal Arc [[Lauralès Arvis]]
 
 ## Discours d’[[Écume]]
 

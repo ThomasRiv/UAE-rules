@@ -10,7 +10,7 @@ Une partie de l’énergie démoniaque de l’un des sujets d’expérimentation
 ## Déroulement
 
 Calis, apprentie de [[Candrin Jvalaka|Candrin]], la vit partir avec des hommes, qui lui lancèrent une épée dans le thorax après l’avoir assommée.
-Celui-ci fut interrogé par [[Lauralès Noneïme]].
+Celui-ci fut interrogé par [[Lauralès Arvis]].
 
 Le groupe fut capturé, hormis Erd qui entra par l’entrée de service et passa les pièges.
 Après le carnage, Candrin se trouva au milieu d’un rituel, qui échoua (?), avant d’être secourue et ramenée en ville.
