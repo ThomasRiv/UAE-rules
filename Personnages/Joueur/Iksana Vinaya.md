@@ -7,20 +7,27 @@
 
 ## Informations personnelles
 ### Nom Complet
+### Pronoms
+### Titres
 ### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
 ### Alignement
 ### Status
 ### Naissance
 Née à [[Cragwell]].
+
 ### Décès
 ### Résidence
 ### Occupations
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 
@@ -58,8 +65,7 @@ graph TD
 ## Citations
 
 ## Galerie
-
-## Anecdotes
-
 ![[Attachements/PC/Iksana/Avatar.jpg]]
 ![[Vinaya_token_2.png]]
+
+## Anecdotes

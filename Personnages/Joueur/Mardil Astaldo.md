@@ -2,7 +2,57 @@
 #Compagnie
 
 # Mardil Astaldo
-Pseudonyme de caval : Casey Mirtek
-Amant [[Mallun Quinn Kinford]]
 
+## Apparence
+
+## Informations personnelles
+### Nom Complet
+Mardil Astaldo
+### Pronoms
+### Titres
+### Alias
+Casey Mirtek (Pseudonyme de caval)
+
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
+### Alignement
+### Status
+### Naissance
+### Décès
+### Résidence
+### Occupations
+
+## Histoire
+
+## Apparence
+
+## Personnalité
+
+## Capacités
+
+## Relations
+### Famille
+### Relations amoureuses
+[[Mallun Quinn Kinford]] (Amante)
+### Amis
+### Alliés et Affiliations
+### Ennemis
+### Autres relations
+
+## Arbre Généalogique
+```mermaid
+graph TD
+    ?[?] --> ?x!( )
+    ![!] --> ?x!
+
+    ?x! --> ?![?!]
+```
+
+## Citations
+
+## Galerie
 ![[Attachements/PC/Casey/Token.png]]
+
+## Anecdotes
+

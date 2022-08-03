@@ -6,7 +6,12 @@
 
 ## Informations personnelles
 ### Nom Complet
+### Pronoms
+### Titres
 ### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
 ### Alignement
 ### Status
 ### Naissance
@@ -24,7 +29,7 @@
 
 ## Relations
 ### Famille
-[[Édos|Hadriel]] (Père)
+[[Hadriel]] (Père)
 [[Vinaya Goodness]] (Mère)
 [[Iksana Vinaya]] (Sœur)
 ### Relations amoureuses

@@ -9,6 +9,14 @@
 ### Nom Complet
 Arannis Siannodel
 
+### Pronoms
+### Titres
+### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
+### Alignement
+
 ### Status
 Vivant ?
 

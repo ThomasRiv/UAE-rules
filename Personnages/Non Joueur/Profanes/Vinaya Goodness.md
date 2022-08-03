@@ -6,10 +6,16 @@
 
 ## Informations personnelles
 ### Nom Complet
+### Pronoms
+### Titres
 ### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
 ### Alignement
 ### Status
 ### Naissance
+650 de l'ère Kinford
 ### Décès
 ### Résidence
 ### Occupations
@@ -24,6 +30,13 @@
 
 ## Relations
 ### Famille
+[[Matrvat Anastrianna]] (Grand-mère)
+[[Arannis Siannodel]] (Grand-père)
+[[Goodness Matrvat]]
+Père non-nommé
+[[Hadriel]] (Compagnon)
+[[Avemya Vinaya]] (Fille)
+[[Iksana Vinaya]] (Fille)
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations

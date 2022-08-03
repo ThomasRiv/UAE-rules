@@ -2,23 +2,27 @@
 
 # {{title}}
 
-## Apparence
-
 ## Informations personnelles
 ### Nom Complet
+### Pronoms
+### Titres
 ### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
 ### Alignement
 ### Status
 ### Naissance
 ### Décès
 ### Résidence
-### Occupations
+### Occupation
 
 ## Histoire
 
-## Apparence
+## Description
+### Apparence
 
-## Personnalité
+### Personnalité
 
 ## Capacités
 

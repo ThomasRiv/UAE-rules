@@ -1,6 +1,54 @@
 #Personnage/Mortel
 #Compagnie
 
-![[Attachements/PC/Erd/token.png]]
+# Erd, du clan des Disciples Rejetés
+
+## Informations personnelles
+### Nom Complet
+### Pronoms
+### Titres
+### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
+### Alignement
+### Status
+### Naissance
+### Décès
+### Résidence
+### Occupations
+Professeur d'herboristerie à l'Académie de [[Maentheas]]
+
+## Histoire
 Gobelin s'étant fait voler son âme par [[Thaena]] en échange d'une indéniable intelligence.
-A enseigné l'herologie à l'Académie de [[Maentheas]].
+
+## Description
+### Apparence
+
+### Personnalité
+
+## Capacités
+
+## Relations
+### Famille
+### Relations amoureuses
+### Amis
+### Alliés et Affiliations
+### Ennemis
+### Autres relations
+
+## Arbre Généalogique
+```mermaid
+graph TD
+    ?[?] --> ?x!( )
+    ![!] --> ?x!
+
+    ?x! --> ?![?!]
+```
+
+## Citations
+
+## Galerie
+![[Attachements/PC/Erd/token.png]]
+
+## Anecdotes

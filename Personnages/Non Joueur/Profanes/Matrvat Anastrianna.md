@@ -8,6 +8,13 @@
 ### Nom Complet
 Matrvat Anastrianna
 
+### Pronoms
+### Titres
+### Alias
+### Type de créature
+### Race
+### Classe %%(le cas échéant)%%
+### Alignement
 ### Status
 Vivante
 
