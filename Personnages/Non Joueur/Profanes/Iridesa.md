@@ -1,2 +1,2 @@
 #Personnage/Mortel 
-Sorcière ayant enlevé [[Sophia]]
+Sorcière ayant enlevé [[Sophia Arvis]]

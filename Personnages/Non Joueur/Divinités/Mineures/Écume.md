@@ -1,4 +1,4 @@
 #Personnage/Divinité
 
-Compagnon de [[Sophia]]
-Père de [[Lauralès]]
+Compagnon de [[Sophia Arvis]]
+Père de [[Lauralès Arvis]]
