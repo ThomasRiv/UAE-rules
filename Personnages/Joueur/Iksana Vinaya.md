@@ -12,7 +12,7 @@ Iksana Vinaya
 ### Pronoms
 Elle, Féminin
 ### Titres
-/
+Doctoresse
 ### Alias
 ### Type de créature
 Humanoïde
