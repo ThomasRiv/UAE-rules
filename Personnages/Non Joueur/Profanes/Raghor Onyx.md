@@ -40,8 +40,8 @@ Nécromancien (anciennement)
 ### Alliés et Affiliations
 ### Ennemis
 [[Matrvat Anastrianna]]
-[[Goodness Matrvat]]
-[[Vinaya Goodness]]
+[[Bonté Matrvat]]
+[[Vinaya Bonté]]
 
 ### Autres relations
 

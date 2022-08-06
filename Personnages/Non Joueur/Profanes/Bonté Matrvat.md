@@ -1,28 +1,34 @@
 #Personnage/Mortel 
 
-# Goodness Matrvat
-
-## Apparence
+# Bonté Matrvat
 
 ## Informations personnelles
 ### Nom Complet
+Bonté Matrvat 
 ### Pronoms
+Elle / Féminin
 ### Titres
+/
 ### Alias
+La tornade de sang et de feu
 ### Type de créature
+Humanoïde
 ### Race
+Tieffeline
 ### Classe
 Niv 14 Sorcière du Brasier éternel
 Niv 16 Paladin de l'Héroïsme
 ### Alignement
+Loyal Neutre
 ### Status
+Vivante
 ### Naissance
 503 de l'ère Kinford
 
-### Décès
 ### Résidence
+Amangassuaq, [[Whitford]]
 ### Occupations
-
+Garde du roi du [[Royaume Whitfordien]]
 ## Histoire
 Née il y a 292 ans.
 
@@ -94,18 +100,18 @@ graph TD
     MA[Matrvat Anastrianna] --> MAxAS( )
     AS[Arannis Siannodel] --> MAxAS
 
-    MAxAS --> GM[Goodness Matrvat]
+    MAxAS --> BM[Bonté Matrvat]
 
-	GM --> GMxS1( )
-    S1[Compagnon de Goodness Matrvat] --> GMxS1
+	BM --> BMxS1( )
+    S1[Compagnon de Bonté Matrvat] --> BMxS1
     
-    GMxS1 --> VG[Vinaya Goodness]
+    BMxS1 --> VB[Vinaya Bonté]
 
-	VG --> VGxH( )
-    H[Hadriel] --> VGxH
+	VB --> VBxH( )
+    H[Hadriel] --> VBxH
 
-	VGxH --> AV[Avemya Vinaya]
-	VGxH --> IV[Iksana Vinaya]
+	VBxH --> AV[Avemya Vinaya]
+	VBxH --> IV[Iksana Vinaya]
 ```
 
 ## Citations
