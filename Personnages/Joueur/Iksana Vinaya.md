@@ -3,8 +3,6 @@
 
 # Iksana Vinaya
 
-## Apparence
-
 ## *Informations personnelles*
 ### Nom Complet
 Iksana Vinaya

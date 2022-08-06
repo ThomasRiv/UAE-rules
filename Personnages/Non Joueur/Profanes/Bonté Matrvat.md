@@ -11,7 +11,9 @@
 ### Alias
 ### Type de créature
 ### Race
-### Classe %%(le cas échéant)%%
+### Classe
+Niv 14 Sorcière du Brasier éternel
+Niv 16 Paladin de l'Héroïsme
 ### Alignement
 ### Status
 ### Naissance
@@ -74,7 +76,7 @@ C’est ainsi qu’elle nomma sa fille, Vinaya Goodness.
 [[Matrvat Anastrianna]] (Mère)
 [[Arannis Siannodel]] (Père)
 Compagnon non-nommé
-[[Vinaya Goodness]] (Fille)
+[[Vinaya Bonté]] (Fille)
 [[Avemya Vinaya]] (Petite-fille)
 [[Iksana Vinaya]] (Petite-fille)
 
@@ -113,4 +115,4 @@ graph TD
 ## Anecdotes
 
 Fille de [[Matrvat Anastrianna]] et d'[[Arannis Siannodel]]
-Mère de [[Vinaya Goodness]]
+Mère de [[Vinaya Bonté]]

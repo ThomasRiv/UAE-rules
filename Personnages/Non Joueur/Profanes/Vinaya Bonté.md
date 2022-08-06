@@ -34,7 +34,7 @@
 ### Famille
 [[Matrvat Anastrianna]] (Grand-mère)
 [[Arannis Siannodel]] (Grand-père)
-[[Goodness Matrvat]]
+[[Bonté Matrvat]]
 Père non-nommé
 [[Hadriel]] (Compagnon)
 [[Avemya Vinaya]] (Fille)

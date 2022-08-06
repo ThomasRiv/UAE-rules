@@ -6,8 +6,11 @@
 
 ## Informations personnelles
 ### Nom Complet
+Avemya Vinaya
 ### Pronoms
+Elle / Féminin
 ### Titres
+Tornade de sang et de feu (oui on la confond énormément avec sa grand-mère)
 ### Alias
 ### Type de créature
 ### Race
@@ -33,7 +36,7 @@
 ## Relations
 ### Famille
 [[Hadriel]] (Père)
-[[Vinaya Goodness]] (Mère)
+[[Vinaya Bonté]] (Mère)
 [[Iksana Vinaya]] (Sœur)
 ### Relations amoureuses
 ### Amis
