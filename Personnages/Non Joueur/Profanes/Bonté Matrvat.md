@@ -100,6 +100,7 @@ Cet incident poussa Bonté à reprendre les armes et reprendre son serment pour 
 Bonté est une grande tieffeline et large par sa musculature des plus impressionnantes.
 Elle a des cheveux noires, une peau violette, des yeux oranges sans sclère ni pupilles, des cornes qui se touchent à environ 15 cm au dessus de son crâne, formant presque une auréole.
 Elle a également une grande tâche de naissance s'enroulant sur tout son corps depuis son front aux motifs de flammes rouges comme une banderole.
+Elle possède plusieurs ornements en or, un qui décore complètement son oreille, plusieurs chaines décorant ses cornes, et un à la pointe de sa queue.
 
 ### Personnalité
 Bonté est bien plus stricte que sa mère, bien plus sérieuse et moins expressive.
