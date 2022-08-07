@@ -30,53 +30,84 @@ Amangassuaq, [[Whitford]]
 ### Occupations
 Garde du roi du [[Royaume Whitfordien]]
 ## Histoire
-Née il y a 292 ans.
+Une enfant nacquit.
+Alors qu'en temps normal les pleurs d'un nouveau-né est une bonne nouvelle, il s'agissait d'une horrible épreuve pour ce bébé né dans les flammes d'un attentat.
 
-Avec les années, les tieffelins se faisaient de plus en plus communs. Ou du moins, leur existence était reconnue. Les parents de Goodness voulait tout faire pour que leur fille soit heureuse, et l’ont donc emmené dans une petite ville qui les acceptent tels qu’ils étaient, au sein des tribues Nordiques. C’est ainsi que Goodness apprit la culture de son peuple, mais aussi ses capacités de sorcière du Brasier Éternel.
-Après de nombreuses années à s’entraîner et à explorer comme son âme l’obligeait, elle était une sorcière de niveau 14, elle était encore inconnue pour le reste du monde.
-Et c’est à ce moment qu’il était l’heure pour elle de partir dans sa quête héroïque. Elle devient ainsi une paladine de l’héroïsme, liée à la promesse envers Ar’athar.
+Aussitôt qu'elle nacquit, son corps fut dévoré par les flammes.
+Aussitôt née, aussitôt en péril.
 
-Elle suit les instructions de son dieu, parcourant terres et mers. Protégeant villes, pays, soignant les blessés, empêchant des guerres civiles, éliminant les menaces de la nation.
+Mais un dieu accepta de la sauver, mais la transforma en tieffeline en échange.
+Ses parents n'avaient pas d'autres choix s'ils voulaient la sauver.
 
-Les missions défilaient, et avec sa force et son charisme augmentèrent, sa réputation n’arrêtait pas de grimper, avec toutes les menaces éliminés, elle fut doucement connue pour ses capacités.
-Toutes les batailles qu’elle rejoignit devenaient une victoire garantie. Elle ne faisait que suivre les ordres de Ar’athar, grimpant les échelons militaires malgré elle.
+C'est ainsi que Bonté fut mise au monde.
 
-Elle trouva dans une de ses nombreuses missions, le responsable de l’armée de dragon rouges qui avait bouleversé la vie de ses parents. Il s’agissait d’un magicien qui avait manipulé les esprits de tous ces dragons. Et ce fut une longue, une très longue bataille. S’écoulant sur des jours, même des semaines. Et hélas, l’ennemi réussit à s’enfuir avant d’être achevé. Bien qu’elle avait un goût amer dans la bouche, Matrvat réussit à forcer les dragons à redevenir libre, évitant ainsi tout danger.
-Elle se fit une amie, Epellia, une elfe de la lune clerc voué au même dieu, même une meilleure amie. Elle avait réussi à sauver la vie de Matrvat, cette dernière la protégeait. Les deux voyageaient ensemble. Elles formaient un tandem presque parfait.
+Alors qu'elle n'était pas en âge de comprendre ce qui lui arrivait, elle se faisait déjà transporter jusqu'aux terres de [[Whitford]], son corps était camouflé à l'aide de nombreux sorts lors de nombreuses occasions.
+Pendant plusieurs années, cette famille vagabondèrent à travers les plaines enneigées, jusqu'à finalement trouver refuge à une ville, Amanguassuaq.
 
-À la fin d’une mission, le duo passa par une église pour prier. Hélas, elles furent prises dans une embuscade par des orcs. Elles furent assommées et kidnappées.
+Les parents eut la chance de voir que le peuple avait accepté leur fille comme l'une des leurs.
+Malgré sa différence plus qu'évidente, la petite tieffeline se faisait de nombreux amis parmi les enfants de la ville.
+Elle y peut apprendre la culture de ce qui était à présent son peuple, les parents n'en étaient que des plus ravis.
 
-Quand Matrvat se réveilla, elle semblait être dans une base sous terre, retenue prisonnière, attachée par des chaînes de métal, suspendue au mur. Elle fut torturée.
-Elle continua de prier Ar’athar, gardant la foi auprès de son dieu, espérant que tout aille pour le mieux.
+Bonté avait maintenant 16 ans lorsque ses capacités de sorcière du Brasier Éternel s'étaient réveillés. C'est également à cette période qu'une voix se mit à lui parler directement dans son esprit. Il s'agissait d'Ar'athar, la même divinité qui l'avait sauvé à sa naissance.
+Il lui indiqua comment s'entraîner ainsi que la suite du contrat "signer" à sa naissance qu'elle devait respecté. 
 
-Elle fut gardée en vie car les orcs connaissaient sa puissance, et voulaient la briser pour en faire une allié dévastatrice.
-L’étape de trop fut lorsqu’ils exécutèrent Epellia devant elle. Avant de mourir, elle dit quelques mots tout en souriant :“Perds pas espoir, tu es celle qui deviendra une légende.”
+C'est lorsqu'elle avait éveiller toutes ses capacités d'ensorceleuse après de nombreuses années à s'entraîner et explorer qu'elle devint une paladine de l'héroïsme.
+Elle suivit les instructions de son dieu, parcourant terres et mers, protégeant villes et villages, soignant les blessés, empêchant les guerres civiles et même éliminer les menaces de la nation.
 
-Cette dernière vision fut celle de trop pour la tieffeline. L’adrénaline, la soudaine haine décuple sa force déjà impressionnante, elle brisa les chaînes si facilement qu’il était difficile de croire qu’elle avait été retenue prisonnière avec.
-Armée uniquement de ses mains, sans son armure, elle tua un à un chaque orc, utilisant pour la première fois depuis longtemps sa sorcellerie. 
+Les missions défilaient, et avec sa réputation n'arrêtait pas de grimper. Chaque menace qui l'attendait finissait par être une réussite de plus sur son tableau.
+Chaque bataille qu'elle rejoignit devenait une victoire garantie. Elle était adulée par ses alliés, crainte par ses ennemis.
 
-Elle fit un massacre.
+Pendant l'une de ses nombreuses missions, elle trouva le responsable de l'incendie de Kethlone, celui qui avait mené cette armée de dragon, qui avait bouleversé la vie de ses parents. Il s'agissait d'un nécromancien ayant manipulé l'esprit de tous ces dragons. 
+Bien évidemment, Bonté l'affronta dans une longue bataille s'écoulant sur des jours, même des semaines sans s'arrêter.
+Mais hélas la conclusion ne fut pas satisfaisante, il s'était enfui avant d'être achevé. Bien qu'elle eut un goût amer dans la bouche, une partie de l'objectif était remplie, et les dragons furent de nouveaux libres dans un état naturel.
 
-Après l’incident, elle continua d’enchaîner les missions, et sa réputation changea. Elle devint aux oreilles du monde “La tornade de sang et de feu”. Son nom n’avait aucune importance, le monde savait que voir ses yeux oranges était signe qu’ils étaient sur le chemin de la fureur d’un dieu.
-C’est ainsi qu’elle arriva au niveau 16 de paladin.
+Sur le champs de bataille, Bonté fut sauvée par une certaine Epellia, une elfe clerc vouée au même dieu apparemment puisqu'elle aussi recevait les mêmes missions depuis une divinité. Depuis, Bonté s'était jurée de la protéger. Les deux devinrent amies, puis meilleures amies.
+Elles voyageaient à présent ensemble et formaient un tandem presque parfait.
 
-Après un siècle entier de missions, de batailles, et de victoires, Ar’athar décida de la libérer, il n’avait plus de requêtes pour elle.
+À la fin d'une énième mission, le duo passa par une église pour prier. Malheureusement, elles furent prises dans une embuscade tendue par des orcs. Assommées par surprises, elle fut kidnappées et emmener loin de leur lieu de prière.
 
-Ainsi, Matrvat Goodness commença une nouvelle vie, personne ne savait pour son identité qui inspirait la terreur chez les ennemis, mais l’espoir chez les alliés.
-Elle trouva un compagnon qui l’accepta pour qui elle était, avec lui, elle fonda une école de magie. Utilisant ses connaissances de sorcellerie pour enseigner une méthode de conversion de sorts plus faibles pour faire des sorts plus forts. Elle eut enfin la vie paisible qu’elle avait cherché, et une fille.
+Quand Bonté se réveilla enfin, elle semblait se trouver dans une base sous terre, fermement retenue prisonnière, attachée par des chaînes de métal, suspendue au mur.
 
-Elle décida de garder la méthode de nom que sa mère avait fait, bien qu’à l’époque c’était pour la protéger de ce que sa mère pouvait endurer avec les rumeurs de sacrifices d’une ville entière.
-L’idée qu’une famille fondée sur la légende du précédent membre, sans pour autant lier les deux. Permettre à la progéniture de ne pas subir la pression d’être comparée à un ancêtre légendaire lui plaisait.
+Pendant ce qu'il semblait être des jours, elle fut torturée. Bonté continua malgré tout de prier Ar'athar, gardant la foi auprès de son dieu, espérant que tout aille pour le mieux.
 
-C’est ainsi qu’elle nomma sa fille, Vinaya Goodness.
+Les orcs la gardaient en vie, ayant eut vent de ses prouesses, ils voulaient la briser pour en faire une arme des plus dévastatrices.
 
+Pour finir cette fracture de l'esprit, les orcs se sont mis à arrêter de torturer Bonté pour à la place s'attaquer à Epellia.
+Mais après quelques mois, alors que par miracle, le duo gardait encore espoir, les orcs exécutèrent par la mort la plus lente et douloureuse la tendre elfe.
+Alors que le sang remontait dans sa bouche, elle réussit à lâcher quelques paroles décorées d'un sourire des plus tendre et chaleureux :"Ne perds pas espoir, résiste pour nous deux ma légende."
+
+Ce moment fut la goutte de trop pour Bonté. 
+L'énergie divine coula intensément dans ses veines alors que ses yeux illuminaient la salle d'une lumière d'un blanc pure.
+La haine couplée à l'énergie divine centupla sa force et son agilité. Elle arracha les chaînes des murs, les rendit incandescente, puis brûla, massacra, tortura chaque orc qu'elle pouvait voir.
+Bien qu'elle n'était armée que de ses mains et de ces chaînes, elle remplaçait une armée entière.
+Il n'y eut pas un seul survivant.
+
+Bonté sortit de la base, encore recouverte de sang et de son manteau de flammes et ainsi naquit "la tornade de sang et de feu".
+À présent, son nom n'avait aucune importance, le monde savait que dès lors qu'ils voyaient une femme au manteau de flamme aux yeux oranges, ils subiraient la fureur d'une divinité.
+
+Après un siècle entier de missions, de batailles et de victoires, Bonté fut relevé de ses fonctions et put entamer cette vie paisible qu'elle attendait.
+
+Bonté commença ainsi une nouvelle vie, son identité, qui inspirait terreur chez l'ennemi et espoir chez l'allié, résonna encore dans les plaines.
+Elle trouva un compagnon qui l'accepta pour qui elle était. Avec lui, elle fonda une famille.
+Bonté décida de garder la même méthode de nom que sa mère, l'idée qu'une famille puisse prospérer sans être impacté par les actes d'un parent et permettre à la progéniture de ne pas subir la pression d'être comparée sans cesse à un ancêtre lui plaisait.
+
+C'est ainsi qu'elle nomma sa fille, Vinaya Bonté.
+
+Hélas, quelques dizaines d'années après la naissance, le mari décéda tragiquement pendant une des nombreuses batailles.
+Cet incident poussa Bonté à reprendre les armes et reprendre son serment pour le roi.
 ## Description
 ### Apparence
+Bonté est une grande tieffeline et large par sa musculature des plus impressionnantes.
+Elle a des cheveux noires, une peau violette, des yeux oranges sans sclère ni pupilles, des cornes qui se touchent à environ 15 cm au dessus de son crâne, formant presque une auréole.
+Elle a également une grande tâche de naissance s'enroulant sur tout son corps depuis son front aux motifs de flammes rouges comme une banderole.
 
 ### Personnalité
+Bonté est bien plus stricte que sa mère, bien plus sérieuse et moins expressive.
+Elle est devenue distante émotionnellement à cause de toutes les guerres, et sa rage de vivre se fait clairement sentir.
+Malgré toute la froideur dont elle fait souvent preuve, elle reste une mère aimante qui fait tout pour soutenir sa descendance... à sa façon.
 
 ## Capacités
-
+Considérée comme une demi-déesse à cause de ses compétences aux combats exceptionnels ?
 ## Relations
 ### Famille
 [[Matrvat Anastrianna]] (Mère)
@@ -89,10 +120,11 @@ Compagnon non-nommé
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations
+[[Whitford]]
+L'armée de Whitford
+Le roi de Whitford
 ### Ennemis
 [[Raghor Onyx]]
-
-### Autres relations
 
 ## Arbre Généalogique
 ```mermaid
@@ -119,6 +151,3 @@ graph TD
 ## Galerie
 
 ## Anecdotes
-
-Fille de [[Matrvat Anastrianna]] et d'[[Arannis Siannodel]]
-Mère de [[Vinaya Bonté]]

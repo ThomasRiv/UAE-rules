@@ -185,5 +185,5 @@ graph TD
 ## Galerie
 
 ## Anecdotes
-Chaque fois qu'elle se déplace avec des livres, elle les pose sur sa tête et les fait tenir en équilibre.
-Elle étend cette compétence à tous objets si elle est suffisamment chargée.
+Chaque fois qu'elle se déplace avec des livres, elle les pose sur sa tête et les fait tenir en équilibre. Elle étend cette compétence à tous objets si elle est suffisamment chargée.
+À cause de son lourd voyage, elle a dû accepter de changer son régime alimentaire pour y inclure de la viande. Et depuis, elle l'a complètement adopté et s'en régale.

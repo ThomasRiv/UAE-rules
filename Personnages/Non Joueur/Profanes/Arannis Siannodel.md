@@ -179,3 +179,4 @@ graph TD
 
 ## Anecdotes
 L'illusion qu'il adore faire à sa famille est une aurole boréale de milles couleures.
+À cause de son lourd voyage, il a dû accepter de changer son régime alimentaire pour y inclure de la viande. Et depuis, il l'a complètement adopté et s'en régale.
