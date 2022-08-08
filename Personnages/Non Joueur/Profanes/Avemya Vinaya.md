@@ -10,28 +10,36 @@ Avemya Vinaya
 ### Pronoms
 Elle / Féminin
 ### Titres
-Tornade de sang et de feu (oui on la confond énormément avec sa grand-mère)
 ### Alias
+Tornade de sang et de feu (oui on la confond énormément avec sa grand-mère)
 ### Type de créature
+Humanoïde
 ### Race
-### Classe %%(le cas échéant)%%
+Tieffeline
+### Classe
+Niv 6 (min) Sorcière du brasier éternel
+Niv ? Paladin de l'héroïsme
 ### Alignement
+Chaotique Bon
 ### Status
+Vivante
 ### Naissance
 765 de l'ère Kinford
 
-### Décès
 ### Résidence
+Amanguassuaq
 ### Occupations
+Aventurière
 
 ## Histoire
-
+Admiration pour sa grand-mère, devint chevalière.
+*insérez péripétie*
+Éveil de pouvoir.
+Poussez sur la voix du paladin de l'héroïsme.
 ## Description
 ### Apparence
 
 ### Personnalité
-
-## Capacités
 
 ## Relations
 ### Famille
@@ -41,11 +49,10 @@ Tornade de sang et de feu (oui on la confond énormément avec sa grand-mère)
 [[Hadriel]] (Père)
 [[Vinaya Bonté]] (Mère)
 [[Iksana Vinaya]] (Sœur)
-### Relations amoureuses
-### Amis
-### Alliés et Affiliations
+
 ### Ennemis
-### Autres relations
+[[Raghor Onyx]]
+
 
 ## Arbre Généalogique
 ```mermaid
