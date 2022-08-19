@@ -25,3 +25,7 @@
 "Dieu descend parmi nous~... Il est temps d'lui péter les g'noux~..."
 
 "C'est ça le trucs avec les amis, n'est-ce pas ? Plus vous les appréciez, plus ça blesse quand ils s'en vont... Laissez-moi vous en faire la démonstration !"
+
+"Qui sait, je pourrais peut-être vivre jusqu'à 100 ans.
+\- Qu'est-ce qui t'en empêcherait ?
+\- Notre carrière ?"
