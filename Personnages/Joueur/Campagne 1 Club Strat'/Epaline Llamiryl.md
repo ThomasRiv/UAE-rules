@@ -1,7 +1,7 @@
-#Personnage/Mortel  
+#Personnage/Mortel 
 #Compagnie5Get1C
 
-# Ainz
+# Epaline Llamiryl
 
 ## Informations personnelles
 ### Nom Complet
@@ -47,5 +47,10 @@ graph TD
 ## Citations
 
 ## Galerie
+
+Portrait d'Epaline
+![[Epaline-portrait.png]]
+Token d'Epaline
+![[Epaline-Token.png]]
 
 ## Anecdotes

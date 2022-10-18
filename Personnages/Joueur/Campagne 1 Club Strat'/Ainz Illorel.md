@@ -1,7 +1,7 @@
-#Personnage/Mortel 
-#Compagnie5Get1C 
+#Personnage/Mortel  
+#Compagnie5Get1C
 
-# Talbour
+# Ainz Illorel
 
 ## Informations personnelles
 ### Nom Complet
@@ -47,5 +47,10 @@ graph TD
 ## Citations
 
 ## Galerie
+
+Portrait de Ainz
+![[Ainz-portrait.png]]
+Token de Ainz
+![[Ainz-Token.png]]
 
 ## Anecdotes

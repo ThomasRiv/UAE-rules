@@ -1,7 +1,7 @@
 #Personnage/Mortel 
-#Compagnie5Get1C
+#Compagnie5Get1C 
 
-# Epaline
+# Talbour Illorel
 
 ## Informations personnelles
 ### Nom Complet
@@ -47,5 +47,10 @@ graph TD
 ## Citations
 
 ## Galerie
+
+Portrait de Talbour
+![[Talbour-portrait.png]]
+Token de Talbour
+![[Talbour-Token.png]]
 
 ## Anecdotes

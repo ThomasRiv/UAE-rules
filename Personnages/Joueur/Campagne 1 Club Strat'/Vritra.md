@@ -48,4 +48,8 @@ graph TD
 
 ## Galerie
 
+Portrait de Vritra
+![[Vritra-portrait.png]]
+Token de Vritra
+![[Vritra-Token.png]]
 ## Anecdotes

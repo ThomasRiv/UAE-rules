@@ -48,4 +48,9 @@ graph TD
 
 ## Galerie
 
+Portrait de Koridwen
+![[Koridwen-portrait.png]]
+Token de Koridwen
+![[Koridwen-Token.png]]
+
 ## Anecdotes
