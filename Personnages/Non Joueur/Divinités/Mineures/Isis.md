@@ -1,3 +1,3 @@
-#Personnage/Divinité 
+#PanthéonKinfordien
 
 Morte

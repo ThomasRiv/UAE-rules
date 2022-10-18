@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonKinfordien
 
 Compagnon de [[Sophia Arvis]]
 Père de [[Lauralès Arvis]]
