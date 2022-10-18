@@ -6,18 +6,26 @@
 ## Informations personnelles
 
 ### Nom Complet
-Mevola de Lisarenne
+Mevola Galadrea Kainé Julia de Lisarenne
 
 ### Pronoms
 Elle/Elle
 
 ### Titres
-
+Héritière de la baronnerie De Lisarenne
 
 ### Alias
+Accord (en tant que barde sur les routes), Pensée d'Ista (en tant que barde de cour).
+
 ### Type de créature
+Humanoïde
+
 ### Race
+Tiefling
+
 ### Classe %%(le cas échéant)%%
+Barde 3
+
 ### Alignement
 Loyal Mauvais
 
@@ -27,13 +35,20 @@ Pour Mevola, la fin justifie les moyens. Si elle doit sacrifier la moitié de l�
 Vivante
 
 ### Naissance
+14 de Doufoyer 1763 (Troisième Age)
+
 ### Décès
+Vivante
+
 ### Résidence
+La route; Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel); Académie arcanique de Tricaren , Empire Kinfordien (anciennement).
+
 ### Occupation
+Barde, Aventurière, Héritière, Savante
 
 ## Histoire
 ### Avant la campagne
-Malgré quelques ombres au tableau, l’enfance de Mevola De Lisarenne fut relativement heureuse. Née dans une des nombreuses petites baronneries de campagne (remplaçable par n’importe quelle forme de noble du même acabit) de l’Empire, fille de nobles (Emile et Yonnah de Lisarenne), elle et sa soeur jumelle purent bénéficier d’un environnement confortable durant leurs jeunes années.
+Malgré quelques ombres au tableau, l’enfance de Mevola De Lisarenne fut relativement heureuse. Née dans une des nombreuses petites baronneries de campagne  de l’Empire, fille de nobles (Emile et Yonnah de Lisarenne), elle et sa soeur jumelle purent bénéficier d’un environnement confortable durant leurs jeunes années.
 Un splendide château empli d’histoire et de secrets, à la bibliothèque bien fournie, entouré par des collines à perte de vue. Des tuteurs privés leur enseignant les arts et les sciences, dans le but d’en faire des héritières dignes de ce nom. Des parents aimants, présents et heureux en ménage, bref la belle vie.
 Seule tache sur cette peinture idyllique, malgré le fait qu’elles soient nés de parents humain et tiennent très visiblement des deux, les jumelles sont des tiefelines. Bien que de nombreuses explication aient été avancées (ancêtre ayant fait un pacte avec un démon, le sang très ancien des deux familles, une malédiction, un dieu chafouin ce jour-là) aucune réelle réponse ne fut jamais trouvé. Les parents firent faire aux soeurs des pendentifs jumeaux qui cachaient par magie les traits tiefelins de leurs enfants, leur évitant ainsi de subir regards, question, harcèlement, et quolibets.
 
@@ -47,32 +62,75 @@ Elle resta 5 ans à l’académie. Durant ceux-ci elle perfectionna ses connaiss
 
 Cela fait maintenant 7 ans qu’elle voyage. Elle passe régulièrement visiter sa famille qui s’inquiète de la voir ainsi s’exposer au danger et ne pas honorer ses responsabilités en tant qu’héritière. Pour les rassurer, elle leur a promis qu’elle accourrait au moindre problème et qu’elle s’occuperait bien du domaine familial quand ils seront trop vieux pour le faire. Consciencieuse, elle essaye tant bien que mal de s’intéresser à des ouvrages politiques pour s’y préparer bien que le sujet n’ait jamais été son fort. Son temps est donc compté et en 12 ans l’obsession qu’elle a pour ce mystère ne s’est que renforcée. Elle mis à l’écart famille, amis, et sujets pour poursuivre son but, peut-être par peur que si elle se reprend à aimer quelqu’un comme elle aimait sa soeur, cette personne disparaisse à son tour. Une chose est sûr, Mevola de Lisarenne n’est pas au bout de ses peines.
 
-### La vérité
+### La vérité (Spoilers)
 Il y a bien des années, une femme a fait quelque chose qui a provoqué le courroux d’un ou plusieurs dieu (je te laisse le choix sur le qui, pourquoi, comment, fais toi plaisir). Pour la punir, son âme fut réincarné dans un tiefelin nés de parents humains. Elle vécut une enfance heureuse mais lors de son 18ème anniversaire, de faux souvenir lui furent implantés, la convainquant qu’elle a grandi avec une soeur jumelle. Le reste de sa vie ne sera que tourment, comme sa vie précédente. En effet, ce cycle dure depuis des siècles et chaque fois, les tortionnaires se montrent très créatifs pour concocter des façon toujours plus originales de faire de son existence un enfer. Sa soeur existe-t-elle vraiment quelque part ? Peut-elle exister ? Mevola pourra-elle briser la malédiction ou connaitre les origines de celle-ci ? Le choix est tiens cher MD.
 
 ## Description
+
 ### Apparence
+Mevola apparait comme une femme humaine d'une trentaine d'année, à la peau pâle et aux cheveux violets. Elle a un visage au traits légèrements marqués. Elle mesure 1m72. Ses yeux sont de la même couleur que ses cheveux. Elle porte le plus souvent une tenue de voyage noire jaune et brune. Lorsqu'elle fait des représentations, elle est vétue d'une robe rouge et jaune.
+
+SPOILERS :
+
+Sous sa véritable apparence, Mevola arbore une double paire de corne violette asortie à sa peau. Sa chevelure est d'un blanc cendré et ses yeux d'un rouge uniforme. Elle porte le plus souvent un maque en plus de ses vêtements habituels, pour cacher son visage et éviter d'être recconue.
 
 ### Personnalité
-Mevola apparait comme une femme charmante, sociable et mystérieuse qui cache une personnalité beaucoup plus froide et méthodique. Elle est intelligente et sait mentir à autrui tout en présentant un visage d’ange. Elle est aussi une musicienne douée au luth, à la flute de pan, et au chant mais elle refuse de chanter depuis la disparition de sa jumelle. Cependant, elle peut s’énerver très vite lorsqu’elle n’est pas (et même parfois lorsqu’elle est) dans son rôle. Elle a un fort penchant pour la boisson et une tendance à l’apathie vis-à-vis des problèmes des autres. Cependant, si elle s’investit dans la vie d’autrui, elle aidera avec un grand machiavélisme au dépens de l’avis de la personne concerné. De façon générale, elle essaye de régler ses problèmes de la façon la plus efficace possible.
+Mevola apparait comme une femme charmante, sociable et mystérieuse qui cache une personnalité beaucoup plus froide et méthodique. Elle est intelligente et sait mentir à autrui tout en présentant un visage d’ange. Elle est aussi une musicienne douée au luth, à la flute de pan, et au chant. Cependant, elle peut s’énerver très vite lorsqu’elle n’est pas (et même parfois lorsqu’elle est) dans son rôle. Elle a un fort penchant pour la boisson et une tendance à l’apathie vis-à-vis des problèmes des autres. Cependant, si elle s’investit dans la vie d’autrui, elle aidera avec un grand machiavélisme au dépens de l’avis de la personne concerné. De façon générale, elle essaye de régler ses problèmes de la façon la plus efficace possible.
 
 ## Capacités
+Magie.
+
+Luth, flute, tambours, chant.
+
+Conaissances historiques, arcaniques, occultes et religieuses.
 
 ## Relations
+
 ### Famille
+Emile de Lisarenne (Père)
+
+Yonnah de Lisarenne (Mère)
+
+??? de Lisarenne (Soeur)
+
 ### Relations amoureuses
+Aucune
+
 ### Amis
+Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et musicienne à ses heures perdues.
+
+William de Lotwatch, Warlock, ancien camarade d'académie et amateur d'occulte.
+
+Tressa Fallenpie, Halfling, Mage (Evocation), une archiviste à la bibliothèque de l'académie.
+
+??? de Lisarenne (meilleure amie)
+
 ### Alliés et Affiliations
+Académie arcanique de Tricaren (en qualité d'ancienne élève).
+
+Maison de Lisarenne (héritière)
+
+Empire Kinfordien (noble mineure)
+
 ### Ennemis
+Royaumme de Whiteford (en qualité de noble de l'Empire)
+
 ### Autres relations
+Malicieux (Barde avec qui elle a entretenu une petite rivalité)
+
+Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    ?[?] --> ?x!( )
-    ![!] --> ?x!
+    ?!!![...] --> ?z!( )
+    ?!![Pyron de Lisarenne] --> ?y!( )
+    ?z! --> !??[Galadrea de Lisarenne] --> ?y!
+    ?y! --> ?[Emile de Lisarenne] --> ?x!( )
+    ![Yonnah de Lisarenne] --> ?x!
 
-    ?x! --> ?![?!]
+    ?x! --> ?![Mevola de Lisarenne]
+    ?x! --> !![??? de Lisarenne]
 ```
 
 ## Citations
@@ -100,3 +158,4 @@ Portrait de Mevola dans sa véritable apparence
 
 Son endroit préféré est une bonne bibliothèque.
 Elle lit des romans d’aventure dans son temps libre.
+Son luth et son collier sont ses deux possessions les plus importants.
