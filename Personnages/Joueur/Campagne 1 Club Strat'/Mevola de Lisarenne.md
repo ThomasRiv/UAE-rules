@@ -127,14 +127,15 @@ Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    ?!!![...] --> ?z!( )
-    ?!![Pyron de Lisarenne] --> ?y!( )
-    ?z! --> !??[Galadrea de Lisarenne] --> ?y!
-    ?y! --> ?[Emile de Lisarenne] --> ?x!( )
-    ![Yonnah de Lisarenne] --> ?x!
+	PdL[Pyron de Lisarenne] --- PdL_x_GdL( )
+	
+    ?[...] --- ?_x_?( ) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
 
-    ?x! --> ?![Mevola de Lisarenne]
-    ?x! --> !![??? de Lisarenne]
+    PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL( )
+    YdL[Yonnah de Lisarenne] --- EdL_x_YdL
+
+    EdL_x_YdL --> MdL[Mevola de Lisarenne]
+    EdL_x_YdL --> ?dL[??? de Lisarenne]
 ```
 
 ## Citations
