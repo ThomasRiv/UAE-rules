@@ -1,7 +1,7 @@
-#Personnage/Mortel
-#Compagnie
+#Personnage/Mortel 
+#Compagnie5Get1C 
 
-# Erd, du clan des Disciples Rejetés
+# Koridwen
 
 ## Informations personnelles
 ### Nom Complet
@@ -16,11 +16,9 @@
 ### Naissance
 ### Décès
 ### Résidence
-### Occupations
-Professeur d'herboristerie à l'Académie de [[Maentheas]]
+### Occupation
 
 ## Histoire
-Gobelin s'étant fait voler son âme par [[Thaena]] en échange d'une indéniable intelligence.
 
 ## Description
 ### Apparence
@@ -49,6 +47,5 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Erd/token.png]]
 
 ## Anecdotes

@@ -1,14 +1,10 @@
-#Personnage/Mortel
-#Compagnie
+#Personnage/Mortel 
+#Compagnie5Get1C 
 
-# Mordecai Noname
-
-## Apparence
+# Vritra
 
 ## Informations personnelles
 ### Nom Complet
-Mordecai Noname
-
 ### Pronoms
 ### Titres
 ### Alias
@@ -20,7 +16,7 @@ Mordecai Noname
 ### Naissance
 ### Décès
 ### Résidence
-### Occupations
+### Occupation
 
 ## Histoire
 
@@ -33,13 +29,9 @@ Mordecai Noname
 
 ## Relations
 ### Famille
-\[REDACTED\] (Grand-père)
-
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations
-[[Église du Crépuscule]] (Anciennement, ex-communié)
-
 ### Ennemis
 ### Autres relations
 
@@ -55,6 +47,5 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Mordecai/Token.png]]
 
 ## Anecdotes

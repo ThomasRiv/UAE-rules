@@ -1,5 +1,5 @@
 #Personnage/Mortel
-#Compagnie
+#CompagnieDuChaos 
 
 # Lossë Lapattë
 

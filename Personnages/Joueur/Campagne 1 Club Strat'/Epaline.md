@@ -1,18 +1,13 @@
-#Personnage/Mortel
-#Compagnie
+#Personnage/Mortel 
+#Compagnie5Get1C
 
-# Namemei aux Écailles d'Or
-
-## Apparence
+# Epaline
 
 ## Informations personnelles
 ### Nom Complet
-Namemei Brynmor
-
 ### Pronoms
 ### Titres
 ### Alias
-Namemei aux Écailles d'Or (Surnom pirate)
 ### Type de créature
 ### Race
 ### Classe %%(le cas échéant)%%
@@ -21,7 +16,7 @@ Namemei aux Écailles d'Or (Surnom pirate)
 ### Naissance
 ### Décès
 ### Résidence
-### Occupations
+### Occupation
 
 ## Histoire
 
@@ -52,7 +47,5 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Namemei/Avatar.png]]
 
 ## Anecdotes
-

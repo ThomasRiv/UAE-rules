@@ -1,5 +1,5 @@
 #Personnage/Mortel
-#Compagnie
+#CompagnieDuChaos
 
 # Mardil Astaldo
 
@@ -53,7 +53,7 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Casey/Token.png]]
+![[Attachements/PC/Une Angélique Errance/Casey/Token.png]]
 
 ## Anecdotes
 

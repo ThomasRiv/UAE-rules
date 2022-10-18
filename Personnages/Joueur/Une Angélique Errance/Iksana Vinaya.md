@@ -1,5 +1,5 @@
 #Personnage/Immortel
-#Compagnie
+#CompagnieDuChaos 
 
 # Iksana Vinaya
 
@@ -219,7 +219,7 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Iksana/Avatar.jpg]]
+![[Attachements/PC/Une Angélique Errance/Iksana/Avatar.jpg]]
 ![[Vinaya_token_2.png]]
 
 ## Anecdotes
