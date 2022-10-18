@@ -1,5 +1,5 @@
 #Organisation 
-#Compagnie
+#CompagnieDuChaos 
 
 Groupe constitué initialement de [[Erd, du clan des Disciples Rejetés|Erd]], [[Lauralès Arvis|Lauralès]], [[Mordecai Noname|Mordecai]], [[Iksana Vinaya|Iksana]], [[Ember]], [[Somnia]] et [[Zephira]].
 
