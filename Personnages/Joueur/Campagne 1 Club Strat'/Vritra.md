@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+Inconnue
 ### Occupation
 
 ## Histoire
