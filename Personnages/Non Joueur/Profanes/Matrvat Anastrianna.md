@@ -163,18 +163,19 @@ Gouvernement Elfique de la [[Cité-État de Maentheas]]
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    MA[Matrvat Anastrianna] --> MAxAS( )
+    MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
     AS[Arannis Siannodel] --> MAxAS
+    
 
     MAxAS --> BM[Bonté Matrvat]
 
 	BM --> BMxS1( )
-    S1[Compagnon de Bonté Matrvat] --> BMxS1
+    S1[Epaline Brymoira] --> BMxS1{{Mariage}}
     
     BMxS1 --> VB[Vinaya Bonté]
 
 	VB --> VBxH( )
-    H[Hadriel] --> VBxH
+    H[Hadriel] --> VBxH{{Mariage}}
 
 	VBxH --> AV[Avemya Vinaya]
 	VBxH --> IV[Iksana Vinaya]
