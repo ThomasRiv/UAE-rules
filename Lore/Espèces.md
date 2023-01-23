@@ -1,1 +1,0 @@
-Tieffelins : 18 familles, dont 3 dont les arbres généalogiques sont entre-croisés et celle d'Iksana

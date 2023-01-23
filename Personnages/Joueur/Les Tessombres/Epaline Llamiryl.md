@@ -1,5 +1,5 @@
-#Personnage/Mortel 
-#Compagnie5Get1C
+#Personnage/Mortel [[Mortel]]
+#Compagnie-Douze [[Compagnie Douze]]
 
 # Epaline Llamiryl
 
@@ -160,10 +160,10 @@ Et les ennemis de l'église d'Edos évidemment
 ```mermaid
 graph TD
     UG[Ujak Gavran] --> |Adoption| N(Neïnara Ahnvae-Gyrah)
-
-N --> M{{Pacs}}
-E[Epaline Brymoira] --> M
-L[[Llamiryl Corneceleste]] --> M
+	
+	N --> M{{Pacs}}
+	E[Epaline Brymoira] --> M
+	L[[Llamiryl Corneceleste]] --> M
 ```
 
 ## Citations

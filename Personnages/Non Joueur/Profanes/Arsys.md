@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Immortel [[Immortel]]
 
 # Arsys
 

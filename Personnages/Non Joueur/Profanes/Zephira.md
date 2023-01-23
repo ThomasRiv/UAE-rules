@@ -1,4 +1,4 @@
-#Personnage/Mortel
+#Personnage/Immortel [[Immortel]]
 
 ![[Attachements/PC/Une Angélique Errance/Zephira/Avatar.png]]
 

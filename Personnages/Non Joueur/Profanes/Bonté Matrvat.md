@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 
 # Bonté Matrvat
 
@@ -88,7 +88,7 @@ Bonté sortit de la base, encore recouverte de sang et de son manteau de flammes
 Après un siècle entier de missions, de batailles et de victoires, Bonté fut relevé de ses fonctions et put entamer cette vie paisible qu'elle attendait, mais elle décida de continuer les batailles par patriotisme.
 
 Bonté commença ainsi une nouvelle vie, son identité, qui inspirait terreur chez l'ennemi et espoir chez l'allié, résonna encore dans les plaines.
-Elle trouva une compagne du nom d'Epaline Brymoira qui l'accepta pour qui elle était. Avec lui, elle fonda une famille.
+Elle trouva une compagne du nom d'Epaline Brymoira qui l'accepta pour qui elle était. Avec elle, elle fonda une famille.
 Bonté décida de garder la même méthode de nom que sa mère, l'idée qu'une famille puisse prospérer sans être impacté par les actes d'un parent et permettre à la progéniture de ne pas subir la pression d'être comparée sans cesse à un ancêtre lui plaisait.
 
 C'est ainsi qu'elle nomma sa fille, Vinaya Bonté.
@@ -134,14 +134,13 @@ Le roi de Whitford
 graph TD
     MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
     AS[Arannis Siannodel] --> MAxAS
-    
 
     MAxAS --> BM[Bonté Matrvat]
 
-	BM --> BMxS1( )
-    S1[Epaline Brymoira] --> BMxS1{{Mariage}}
+	BM --> BMxEB( )
+    EB[Epaline Brymoira] --> BMxEB{{Mariage}}
     
-    BMxS1 --> VB[Vinaya Bonté]
+    BMxEB --> VB[Vinaya Bonté]
 
 	VB --> VBxH( )
     H[Hadriel] --> VBxH{{Mariage}}

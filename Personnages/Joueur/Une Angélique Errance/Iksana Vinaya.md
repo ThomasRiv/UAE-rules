@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 #CompagnieDuChaos 
 
 # Iksana Vinaya
@@ -201,14 +201,13 @@ Fiélon familier : Elvas
 graph TD
     MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
     AS[Arannis Siannodel] --> MAxAS
-    
 
     MAxAS --> BM[Bonté Matrvat]
 
-	BM --> BMxS1( )
-    S1[Epaline Brymoira] --> BMxS1{{Mariage}}
+	BM --> BMxEB( )
+    EB[Epaline Brymoira] --> BMxEB{{Mariage}}
     
-    BMxS1 --> VB[Vinaya Bonté]
+    BMxEB --> VB[Vinaya Bonté]
 
 	VB --> VBxH( )
     H[Hadriel] --> VBxH{{Mariage}}
